@@ -1,0 +1,403 @@
+{
+ "total": 93.72568999999993,
+ "segments": [
+  [
+   0.0,
+   0.1,
+   1.0
+  ],
+  [
+   0.1,
+   2.0,
+   1.0
+  ],
+  [
+   2.0,
+   3.95,
+   1.0
+  ],
+  [
+   3.95,
+   5.0,
+   0.7576085544828776
+  ],
+  [
+   5.0,
+   5.68,
+   0.41103756762474647
+  ],
+  [
+   5.68,
+   5.85,
+   1.0
+  ],
+  [
+   5.85,
+   8.15,
+   1.0
+  ],
+  [
+   8.15,
+   9.9,
+   0.6497605168380794
+  ],
+  [
+   9.9,
+   10.25,
+   1.0
+  ],
+  [
+   10.25,
+   10.7,
+   1.0
+  ],
+  [
+   10.7,
+   12.0,
+   0.816685513255433
+  ],
+  [
+   12.0,
+   14.1,
+   0.4186352490879731
+  ],
+  [
+   14.1,
+   14.45,
+   1.0
+  ],
+  [
+   14.45,
+   14.899999999999999,
+   1.0
+  ],
+  [
+   14.899999999999999,
+   15.9,
+   0.20100098490482626
+  ],
+  [
+   15.9,
+   16.25,
+   1.0
+  ],
+  [
+   16.25,
+   16.7,
+   1.0
+  ],
+  [
+   16.7,
+   18.9,
+   0.6736481107232524
+  ],
+  [
+   18.9,
+   21.9,
+   0.7120985544399349
+  ],
+  [
+   21.9,
+   22.25,
+   1.0
+  ],
+  [
+   22.25,
+   22.7,
+   1.0
+  ],
+  [
+   22.7,
+   25.6,
+   0.6613153333941442
+  ],
+  [
+   25.6,
+   27.9,
+   0.6797292904217275
+  ],
+  [
+   27.9,
+   28.25,
+   1.0
+  ],
+  [
+   28.25,
+   28.7,
+   1.0
+  ],
+  [
+   28.7,
+   31.9,
+   0.6859004586959313
+  ],
+  [
+   31.9,
+   32.25,
+   1.0
+  ],
+  [
+   32.25,
+   32.7,
+   1.0
+  ],
+  [
+   32.7,
+   35.949999999999996,
+   0.5070993914807306
+  ],
+  [
+   35.949999999999996,
+   36.3,
+   1.0
+  ],
+  [
+   36.3,
+   38.9,
+   1.0
+  ],
+  [
+   38.9,
+   41.9,
+   0.5824451045488971
+  ],
+  [
+   41.9,
+   42.25,
+   1.0
+  ],
+  [
+   42.25,
+   42.7,
+   1.0
+  ],
+  [
+   42.7,
+   43.75,
+   0.826967000078766
+  ],
+  [
+   43.75,
+   45.9,
+   0.6763558575563128
+  ],
+  [
+   45.9,
+   46.25,
+   1.0
+  ],
+  [
+   46.25,
+   46.925,
+   1.0
+  ],
+  [
+   46.925,
+   48.5,
+   0.18511553560094973
+  ],
+  [
+   48.5,
+   50.05,
+   0.40751939003549387
+  ],
+  [
+   50.05,
+   50.4,
+   1.0
+  ],
+  [
+   50.4,
+   50.85,
+   1.0
+  ],
+  [
+   50.85,
+   52.0,
+   0.5574406204556503
+  ],
+  [
+   52.0,
+   54.6,
+   1.0
+  ],
+  [
+   54.6,
+   54.81,
+   1.0
+  ],
+  [
+   54.81,
+   55.3,
+   0.5606407322654491
+  ],
+  [
+   55.3,
+   56.6,
+   0.5979760809567658
+  ],
+  [
+   56.6,
+   60.033,
+   0.9921965317919126
+  ]
+ ],
+ "lines": [
+  {
+   "start": 0.2,
+   "end": 0.9862589999999998,
+   "next": 2.0,
+   "text": "You have an idea."
+  },
+  {
+   "start": 2.1,
+   "end": 3.0326100000000005,
+   "next": 3.95,
+   "text": "And forty tabs open."
+  },
+  {
+   "start": 4.05,
+   "end": 4.83594,
+   "next": 5.335940000000001,
+   "text": "One messy spreadsheet."
+  },
+  {
+   "start": 5.43594,
+   "end": 6.660290000000001,
+   "next": 7.160290000000002,
+   "text": "And it's still just a hunch."
+  },
+  {
+   "start": 7.260290000000001,
+   "end": 7.911689999999999,
+   "next": 9.460290000000002,
+   "text": "Meet Signal Dart."
+  },
+  {
+   "start": 9.560290000000002,
+   "end": 12.003590000000003,
+   "next": 12.503590000000003,
+   "text": "Validate the idea. Then watch the market. All in one place."
+  },
+  {
+   "start": 12.603590000000002,
+   "end": 14.045390000000005,
+   "next": 14.545390000000005,
+   "text": "Just describe your idea in one sentence."
+  },
+  {
+   "start": 14.645390000000004,
+   "end": 19.41169,
+   "next": 19.911690000000007,
+   "text": "Signal Dart finds your competitors, reads their pricing pages, and measures real search demand, all on its own."
+  },
+  {
+   "start": 20.01169000000001,
+   "end": 25.186790000000006,
+   "next": 25.68679000000001,
+   "text": "In minutes, your market is mapped. Competitors, features, search demand, and a clear opportunity score."
+  },
+  {
+   "start": 25.78679000000001,
+   "end": 28.90259000000001,
+   "next": 29.40259000000001,
+   "text": "These are your real competitors, with live data on every single one."
+  },
+  {
+   "start": 29.502590000000012,
+   "end": 33.46549000000001,
+   "next": 33.96549000000001,
+   "text": "Funding, pricing, reviews, even who they're hiring. All in one view."
+  },
+  {
+   "start": 34.06549000000001,
+   "end": 38.30069000000001,
+   "next": 38.80069000000001,
+   "text": "Every feature, verified. Signal Dart checks each one against the competitor's own website."
+  },
+  {
+   "start": 38.90069000000001,
+   "end": 42.03439000000001,
+   "next": 42.53439000000001,
+   "text": "So you can spot the features buyers want, that almost nobody offers."
+  },
+  {
+   "start": 42.63439000000001,
+   "end": 47.49979000000001,
+   "next": 47.99979000000001,
+   "text": "Find the demand they missed. See what real buyers search for every month, and the keywords nobody ranks for yet."
+  },
+  {
+   "start": 48.09979000000001,
+   "end": 54.70879,
+   "next": 55.20879,
+   "text": "Spot the gap, and price it right. Uncover the pain points customers complain about, and see exactly where your price lands against every rival."
+  },
+  {
+   "start": 55.30879,
+   "end": 56.78489,
+   "next": 57.80879,
+   "text": "Research it once. Then watch it."
+  },
+  {
+   "start": 57.90879,
+   "end": 62.80949,
+   "next": 63.30949,
+   "text": "When a rival cuts prices, ships a new feature, raises money, or starts hiring, you hear about it first."
+  },
+  {
+   "start": 63.40949,
+   "end": 64.52919,
+   "next": 65.02918999999999,
+   "text": "And nothing here is invented."
+  },
+  {
+   "start": 65.12918999999998,
+   "end": 68.05798999999998,
+   "next": 68.55798999999996,
+   "text": "Every single figure links straight back to the page it came from."
+  },
+  {
+   "start": 68.65798999999996,
+   "end": 77.24118999999996,
+   "next": 77.74118999999997,
+   "text": "Six powerful engines. Competitor research, SEO intelligence, market gap analysis, an AI strategy advisor, autonomous monitoring, and executive reports."
+  },
+  {
+   "start": 77.84118999999997,
+   "end": 81.39468999999997,
+   "next": 81.89468999999997,
+   "text": "One clear answer. Export it to PDF, PowerPoint, or Notion."
+  },
+  {
+   "start": 81.99468999999996,
+   "end": 83.90768999999996,
+   "next": 84.40768999999996,
+   "text": "Validate the idea. Then watch the market."
+  },
+  {
+   "start": 84.50768999999995,
+   "end": 86.04668999999996,
+   "next": 87.00768999999997,
+   "text": "Get started free. No credit card needed."
+  },
+  {
+   "start": 87.10768999999996,
+   "end": 87.59168999999996,
+   "next": 88.09168999999996,
+   "text": "Signal Dart."
+  },
+  {
+   "start": 88.19168999999995,
+   "end": 89.76568999999995,
+   "next": 90.26568999999995,
+   "text": "Know your market. Beat the competition."
+  },
+  {
+   "start": 90.36568999999994,
+   "end": 92.42568999999993,
+   "next": 93.72568999999993,
+   "text": "Start free today, at signal dart dot com."
+  }
+ ]
+}
